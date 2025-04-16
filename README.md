@@ -6,7 +6,7 @@ An interactive data storytelling dashboard analyzing YouTube trending videos usi
 
 ## 🔗 Live Visualizations
 
-- **Dataset link** [Dataset Link](https://drive.google.com/drive/folders/1YfH8SFSaGi3XAsHm61_BiqdbgOB6lc1R?usp=drive_link)
+- **Dataset link** [Youtube Dataset](https://drive.google.com/drive/folders/1YfH8SFSaGi3XAsHm61_BiqdbgOB6lc1R?usp=drive_link)
 - **Insight 1:** [Bar Plot – Most Liked Categories](https://public.tableau.com/app/profile/daizy.asmani/viz/MostLikeCategory/Mostlikeyoutubecategory?publish=yes)  
 - **Insight 2:** [Line Plot – Views & Engagement Over Time](https://public.tableau.com/app/profile/daizy.asmani/viz/EngagementTrendsOverTime/Engagementtrendsovertime?publish=yes)  
 - **Insight 3:** [Scatter Plot – Correlation Between Views & Likes](https://public.tableau.com/app/profile/daizy.asmani/viz/HigestViewstoLikesratio/Relatioshipbetweenviewsprlikes?publish=yes) 
