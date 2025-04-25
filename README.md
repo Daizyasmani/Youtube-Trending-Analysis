@@ -10,7 +10,8 @@ An interactive data storytelling dashboard analyzing YouTube trending videos usi
 - **Insight 1:** [Bar Plot – Most Liked Categories](https://public.tableau.com/app/profile/daizy.asmani/viz/MostLikeCategory/Mostlikeyoutubecategory?publish=yes)  
 - **Insight 2:** [Line Plot – Views & Engagement Over Time](https://public.tableau.com/app/profile/daizy.asmani/viz/EngagementTrendsOverTime/Engagementtrendsovertime?publish=yes)  
 - **Insight 3:** [Scatter Plot – Correlation Between Views & Likes](https://public.tableau.com/app/profile/daizy.asmani/viz/HigestViewstoLikesratio/Relatioshipbetweenviewsprlikes?publish=yes) 
-- **Insight 4:** [Graph – Top Trending Video Views by State](https://public.tableau.com/app/profile/daizy.asmani/viz/HighestViewsbyUsstate/TopTrendingVideosbyLocation?publish=yes)  
+- **Insight 4:** [Graph – Top Trending Video Views by State](https://public.tableau.com/app/profile/daizy.asmani/viz/HighestViewsbyUsstate/TopTrendingVideosbyLocation?publish=yes)
+- **YouTube Trending Video Insights story:** [View Story](https://public.tableau.com/app/profile/daizy.asmani/viz/Stroy_17422359359640/Story2?publish=yes)
 - **📊 Full Dashboard:** [YouTube Trending Video Analysis Dashboard](https://public.tableau.com/app/profile/daizy.asmani/viz/YouTubeTrendingdataDashboard/Dashboard2?publish=yes)
 
 ---
